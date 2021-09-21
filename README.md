@@ -2,4 +2,6 @@
 
 <h2>Preview 🧐
 <br><br>  
-<img src=https://user-images.githubusercontent.com/70858557/134147576-afeac4c7-e9e6-433f-ad2c-9f952713f5c1.gif heigh="300" width="800">
+<img src="https://user-images.githubusercontent.com/70858557/134154937-6a82a23d-e3db-4474-85d6-a88c71dde346.gif" heigh="300" width="800">
+
+
