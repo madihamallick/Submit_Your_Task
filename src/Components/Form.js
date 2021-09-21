@@ -57,8 +57,6 @@ const Form = () => {
             }
         )
     }
-    // Upload comp
-
     async function submitAssignment() {
         uploadFile()
         const payload = {

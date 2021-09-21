@@ -19,7 +19,6 @@ const schemaOfStudents = mongoose.Schema({
     },
     fileUrl: {
         type: String,
-        required: true
     }
 })
 
